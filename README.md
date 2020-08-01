@@ -25,4 +25,6 @@ https://github.com/zapproject/zap-monorepo
 https://medium.com/@BlocktechStefan
 
 
+https://coil.com/p/Panosmek/ZAP-Revolutionizing-Oracles-and-Decentralized-Finance/mfI1Zz3w6
+
 

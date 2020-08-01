@@ -1,5 +1,5 @@
 # docs
-Zap Documentation - it's all here!
+Welcome to the Zap Wiki! Following are some important resources for Zap developers, newcomers, and others.
 
 # legacy
 

@@ -18,5 +18,7 @@ https://github.com/zapproject/zap-monorepo
 ## Related Articles
 
 
+https://medium.com/@BlocktechStefan
+
 
 

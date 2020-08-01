@@ -11,6 +11,10 @@ https://zapproject.gitbook.io/zapproject/
 
 https://tech.zap.org/docs/overview.html
 
+# FAQ
+
+https://docs.google.com/document/d/1F7cybEw95yBhFUit8b40BG2QevUndpIxx7AYIo2GFo8/edit
+
 ## Codebase
 
 https://github.com/zapproject/zap-monorepo

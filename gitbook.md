@@ -1,1 +1,17 @@
 @Lloyd155 you can post the updated contract address hyperlinks here...
+Mainnet Address:
+Coordinator : 0xb007eca49763f31edff95623ed6c23c8c1924a16 https://etherscan.io/address/0xb007eca49763f31edff95623ed6c23c8c1924a16
+Registry: 0xc7ab7ffc4fc2f3c75ffb621f574d4b9c861330f0 https://etherscan.io/address/0xc7ab7ffc4fc2f3c75ffb621f574d4b9c861330f0\
+Dispatch:0xac0f9620c5940085eb5f3a07210d890aa4ceee11 https://etherscan.io/address/0xac0f9620c5940085eb5f3a07210d890aa4ceee11
+Bondage:0x188f79b0a8edc10ad53285c47c3feaa0d2716e83 https://etherscan.io/address/0x188f79b0a8edc10ad53285c47c3feaa0d2716e83
+Arbiter:0x131e22ae3e90f0eeb1fb739eaa62ea0290c3fbe1
+https://etherscan.io/address/0x131e22ae3e90f0eeb1fb739eaa62ea0290c3fbe1
+
+Kovan Addresses:
+Coordinator:0x0014f9acd4f4ad4ac65fec3dcee75736fd0a0230 https://kovan.etherscan.io/address/0x0014f9acd4f4ad4ac65fec3dcee75736fd0a0230
+Registry:0x321C850Bf38B96a942bED941A3E95E0b8DdC1F8E
+https://kovan.etherscan.io/address/0x321c850bf38b96a942bed941a3e95e0b8ddc1f8e
+Dispatch:0x6b6afd3fc0a7f47d48f9c5fc13375a40e70bbbd3 https://kovan.etherscan.io/address/0x6b6afd3fc0a7f47d48f9c5fc13375a40e70bbbd3
+Bondage:0xffdff0c05d5566c50307dcbdc63b45e2e24a095d
+https://kovan.etherscan.io/address/0xffdff0c05d5566c50307dcbdc63b45e2e24a095d
+Arbiter:0xf448c11f18a9aabaa8940a4641cae2e9fbe9ebd7 https://kovan.etherscan.io/address/0xf448c11f18a9aabaa8940a4641cae2e9fbe9ebd7

@@ -11,6 +11,8 @@ https://zapproject.gitbook.io/zapproject/
 
 https://tech.zap.org/docs/overview.html
 
+https://github.com/zapproject/multiparty-oracle
+
 # FAQ
 
 https://docs.google.com/document/d/1F7cybEw95yBhFUit8b40BG2QevUndpIxx7AYIo2GFo8/edit

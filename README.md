@@ -5,8 +5,6 @@ Welcome to the Zap Wiki! Following are some important resources for Zap develope
 
 We have several old codebases that house documentation. Listed are the current documentation live sites and current codebases.
 
-https://github.com/adammmanka/Zap-Starter-Kit
-
 https://zapproject.gitbook.io/zapproject/
 
 https://tech.zap.org/docs/overview.html

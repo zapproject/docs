@@ -1,6 +1,9 @@
 @Lloyd155 you can post the updated contract address hyperlinks here...
 Mainnet Address:
-Coordinator : 0xb007eca49763f31edff95623ed6c23c8c1924a16 https://etherscan.io/address/0xb007eca49763f31edff95623ed6c23c8c1924a16
+
+[Coordinator: 0xb007eca49763f31edff95623ed6c23c8c1924a16](https://etherscan.io/address/0xb007eca49763f31edff95623ed6c23c8c1924a16)
+
+
 Registry: 0xc7ab7ffc4fc2f3c75ffb621f574d4b9c861330f0 https://etherscan.io/address/0xc7ab7ffc4fc2f3c75ffb621f574d4b9c861330f0\
 Dispatch:0xac0f9620c5940085eb5f3a07210d890aa4ceee11 https://etherscan.io/address/0xac0f9620c5940085eb5f3a07210d890aa4ceee11
 Bondage:0x188f79b0a8edc10ad53285c47c3feaa0d2716e83 https://etherscan.io/address/0x188f79b0a8edc10ad53285c47c3feaa0d2716e83

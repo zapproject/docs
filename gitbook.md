@@ -12,6 +12,8 @@ Bondage:[0x188f79b0a8edc10ad53285c47c3feaa0d2716e83](https://etherscan.io/addres
 
 Arbiter:[0x131e22ae3e90f0eeb1fb739eaa62ea0290c3fbe1](https://etherscan.io/address/0x131e22ae3e90f0eeb1fb739eaa62ea0290c3fbe1)
 
+Database:[0x02647d32b2633cf89434d8f371658b6a74d55bf9](https://etherscan.io/address/0x02647d32b2633cf89434d8f371658b6a74d55bf9#readContract)
+
               **Kovan Addresses:**
 
 Coordinator:[0x0014f9acd4f4ad4ac65fec3dcee75736fd0a0230](https://kovan.etherscan.io/address/0x0014f9acd4f4ad4ac65fec3dcee75736fd0a0230)

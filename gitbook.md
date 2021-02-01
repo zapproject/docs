@@ -32,3 +32,9 @@ Coordinator: [0x66523b79A38E01f13EeCBD51eb50767adF960490
 ](https://explorer-mumbai.maticvigil.com/address/0x66523b79A38E01f13EeCBD51eb50767adF960490/contracts)
 
 Registry: [0x38118D2644040a52D6444Dc03a89cb47e16908d9](https://explorer-mumbai.maticvigil.com/address/0x38118D2644040a52D6444Dc03a89cb47e16908d9/contracts)
+
+Dispatch: [0xBfbaD4200f9b4DBd6f54B9376B88bd3F1442DD18](https://explorer-mumbai.maticvigil.com/address/0xBfbaD4200f9b4DBd6f54B9376B88bd3F1442DD18/contracts)
+
+Bondage: [0x44e60F76bef3bF93D2A941DBd7267b54b9C3d80D](https://explorer-mumbai.maticvigil.com/address/0x44e60F76bef3bF93D2A941DBd7267b54b9C3d80D/contracts)
+
+Arbiter: [0xD912C359AD60D842e0bac9574517015C7a24A337](https://explorer-mumbai.maticvigil.com/address/0xD912C359AD60D842e0bac9574517015C7a24A337/contracts)

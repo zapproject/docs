@@ -30,3 +30,5 @@ Arbiter:[0xf448c11f18a9aabaa8940a4641cae2e9fbe9ebd7](https://kovan.etherscan.io/
 
 Coordinator: [0x66523b79A38E01f13EeCBD51eb50767adF960490
 ](https://explorer-mumbai.maticvigil.com/address/0x66523b79A38E01f13EeCBD51eb50767adF960490/contracts)
+
+Registry: [0x38118D2644040a52D6444Dc03a89cb47e16908d9](https://explorer-mumbai.maticvigil.com/address/0x38118D2644040a52D6444Dc03a89cb47e16908d9/contracts)

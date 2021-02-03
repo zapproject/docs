@@ -14,6 +14,7 @@ Arbiter:[0x131e22ae3e90f0eeb1fb739eaa62ea0290c3fbe1](https://etherscan.io/addres
 
 Database:[0x02647d32b2633cf89434d8f371658b6a74d55bf9](https://etherscan.io/address/0x02647d32b2633cf89434d8f371658b6a74d55bf9#readContract)
 
+
               **Kovan Addresses:**
 
 Coordinator:[0x0014f9acd4f4ad4ac65fec3dcee75736fd0a0230](https://kovan.etherscan.io/address/0x0014f9acd4f4ad4ac65fec3dcee75736fd0a0230)
@@ -25,6 +26,9 @@ Dispatch:[0x6b6afd3fc0a7f47d48f9c5fc13375a40e70bbbd3](https://kovan.etherscan.io
 Bondage:[0xffdff0c05d5566c50307dcbdc63b45e2e24a095d](https://kovan.etherscan.io/address/0xffdff0c05d5566c50307dcbdc63b45e2e24a095d)
 
 Arbiter:[0xf448c11f18a9aabaa8940a4641cae2e9fbe9ebd7](https://kovan.etherscan.io/address/0xf448c11f18a9aabaa8940a4641cae2e9fbe9ebd7)
+
+TokenDotFactory: [0x0A708D5c7579726D8DdC95420b1D5e17984BAd5b](https://kovan.etherscan.io/address/0x0A708D5c7579726D8DdC95420b1D5e17984BAd5b#readContract)
+
 
               **Matic Addresses:**
 

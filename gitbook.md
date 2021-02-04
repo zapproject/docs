@@ -14,6 +14,8 @@ Arbiter:[0x131e22ae3e90f0eeb1fb739eaa62ea0290c3fbe1](https://etherscan.io/addres
 
 Database:[0x02647d32b2633cf89434d8f371658b6a74d55bf9](https://etherscan.io/address/0x02647d32b2633cf89434d8f371658b6a74d55bf9#readContract)
 
+Token Dot Factory:[0x73c082CC3bD5360B1003983752c3641D0d4E34f6](https://etherscan.io/address/0x73c082CC3bD5360B1003983752c3641D0d4E34f6#readContract)
+
 
               **Kovan Addresses:**
 

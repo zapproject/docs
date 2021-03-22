@@ -32,6 +32,49 @@ Arbiter:[0xf448c11f18a9aabaa8940a4641cae2e9fbe9ebd7](https://kovan.etherscan.io/
 TokenDotFactory: [0x0A708D5c7579726D8DdC95420b1D5e17984BAd5b](https://kovan.etherscan.io/address/0x0A708D5c7579726D8DdC95420b1D5e17984BAd5b#readContract)
 
 
+              **Rinkeby Addresses:**
+
+Coordinator:[0x229f3527f3e0b77b2dEB86d0B05204a3daabdd69](https://rinkeby.etherscan.io/address/0x229f3527f3e0b77b2dEB86d0B05204a3daabdd69#code)
+
+Registry:[0x3FE6d6aD5ad3FE9CEFc9107166eE6d7e08568E8F](https://rinkeby.etherscan.io/address/0x3FE6d6aD5ad3FE9CEFc9107166eE6d7e08568E8F#code)
+
+Dispatch:[0x21D8b1DB306398e78aD109347C64b9955ee0F979](https://rinkeby.etherscan.io/address/0x21D8b1DB306398e78aD109347C64b9955ee0F979#code)
+
+Bondage:[0xe316D9956a30c356d72Cfef122f9614fB9b919A3](https://rinkeby.etherscan.io/address/0xe316D9956a30c356d72Cfef122f9614fB9b919A3#code)
+
+Arbiter:[0xD47aF2ABC50D68Cc6ce218942B172C645C9D545d](https://rinkeby.etherscan.io/address/0xD47aF2ABC50D68Cc6ce218942B172C645C9D545d#code)
+
+TokenDotFactory: []()
+
+
+              **Ropsten Addresses:**
+
+Coordinator:[0x13BAE5DACb8F4311EC26DFB6D5A4230ED1d71713](https://ropsten.etherscan.io/address/0x13BAE5DACb8F4311EC26DFB6D5A4230ED1d71713#code)
+
+Registry:[0x3FE6d6aD5ad3FE9CEFc9107166eE6d7e08568E8F](https://ropsten.etherscan.io/address/0x3FE6d6aD5ad3FE9CEFc9107166eE6d7e08568E8F#code)
+
+Dispatch:[0x21D8b1DB306398e78aD109347C64b9955ee0F979](https://ropsten.etherscan.io/address/0x21D8b1DB306398e78aD109347C64b9955ee0F979#code)
+
+Bondage:[0xe316D9956a30c356d72Cfef122f9614fB9b919A3](https://ropsten.etherscan.io/address/0xe316D9956a30c356d72Cfef122f9614fB9b919A3#code)
+
+Arbiter:[0xD47aF2ABC50D68Cc6ce218942B172C645C9D545d](https://ropsten.etherscan.io/address/0xD47aF2ABC50D68Cc6ce218942B172C645C9D545d#code)
+
+TokenDotFactory: [](https://kovan.etherscan.io/address/0x0A708D5c7579726D8DdC95420b1D5e17984BAd5b#readContract)
+
+               **Goerli Addresses:**
+
+Coordinator:[0x13BAE5DACb8F4311EC26DFB6D5A4230ED1d71713](https://goerli.etherscan.io/address/0x13BAE5DACb8F4311EC26DFB6D5A4230ED1d71713#code0)
+
+Registry:[0x229f3527f3e0b77b2dEB86d0B05204a3daabdd69](https://goerli.etherscan.io/address/0x229f3527f3e0b77b2dEB86d0B05204a3daabdd69#code)
+
+Dispatch:[0x3FE6d6aD5ad3FE9CEFc9107166eE6d7e08568E8F](https://goerli.etherscan.io/address/0x3fe6d6ad5ad3fe9cefc9107166ee6d7e08568e8f#code)
+
+Bondage:[0x21D8b1DB306398e78aD109347C64b9955ee0F979](https://goerli.etherscan.io/address/0x21D8b1DB306398e78aD109347C64b9955ee0F979#code)
+
+Arbiter:[0xe316D9956a30c356d72Cfef122f9614fB9b919A3](https://goerli.etherscan.io/address/0xe316D9956a30c356d72Cfef122f9614fB9b919A3#code)
+
+TokenDotFactory: [](https://kovan.etherscan.io/address/0x0A708D5c7579726D8DdC95420b1D5e17984BAd5b#readContract)
+
               **Matic Addresses:**
 
 Coordinator: [0x66523b79A38E01f13EeCBD51eb50767adF960490

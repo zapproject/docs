@@ -1,4 +1,3 @@
-@Lloyd155 you can post the updated contract address hyperlinks here...
              
              **Mainnet Address:**
 
@@ -43,8 +42,6 @@ Dispatch:[0x21D8b1DB306398e78aD109347C64b9955ee0F979](https://rinkeby.etherscan.
 Bondage:[0xe316D9956a30c356d72Cfef122f9614fB9b919A3](https://rinkeby.etherscan.io/address/0xe316D9956a30c356d72Cfef122f9614fB9b919A3#code)
 
 Arbiter:[0xD47aF2ABC50D68Cc6ce218942B172C645C9D545d](https://rinkeby.etherscan.io/address/0xD47aF2ABC50D68Cc6ce218942B172C645C9D545d#code)
-
-TokenDotFactory: []()
 
 
               **Ropsten Addresses:**

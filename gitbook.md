@@ -84,3 +84,5 @@ Dispatch: [0xBfbaD4200f9b4DBd6f54B9376B88bd3F1442DD18](https://explorer-mumbai.m
 Bondage: [0x44e60F76bef3bF93D2A941DBd7267b54b9C3d80D](https://explorer-mumbai.maticvigil.com/address/0x44e60F76bef3bF93D2A941DBd7267b54b9C3d80D/contracts)
 
 Arbiter: [0xD912C359AD60D842e0bac9574517015C7a24A337](https://explorer-mumbai.maticvigil.com/address/0xD912C359AD60D842e0bac9574517015C7a24A337/contracts)
+
+ZapToken: [0x13BAE5DACb8F4311EC26DFB6D5A4230ED1d71713](https://explorer-mumbai.maticvigil.com/address/0x13BAE5DACb8F4311EC26DFB6D5A4230ED1d71713/contracts)

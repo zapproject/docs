@@ -15,6 +15,8 @@ Database:[0x02647d32b2633cf89434d8f371658b6a74d55bf9](https://etherscan.io/addre
 
 Token Dot Factory:[0x73c082CC3bD5360B1003983752c3641D0d4E34f6](https://etherscan.io/address/0x73c082CC3bD5360B1003983752c3641D0d4E34f6#readContract)
 
+Zap Token: [0x6781a0f84c7e9e846dcb84a9a5bd49333067b104](https://etherscan.io/token/0x6781a0F84c7E9e846DCb84A9a5bd49333067b104?a=0x6cc8dCbCA746a6E4Fdefb98E1d0DF903b107fd21)
+
 
               **Kovan Addresses:**
 

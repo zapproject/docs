@@ -6,6 +6,8 @@ Welcome to the Zap Wiki! Housed here are some important resources for Zap develo
 
 [Frequently Asked Questions](https://docs.google.com/document/d/1F7cybEw95yBhFUit8b40BG2QevUndpIxx7AYIo2GFo8/edit)
 
+https://zapproject.gitbook.io/zapproject/
+
 
 
 
